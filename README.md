@@ -82,49 +82,69 @@
 ### Web Design for Everybody: Basics of Web Development & Coding Specialization [view &rarr;](https://coursera.org/share/20608839660a4b4d9bfaa0835c8235f0)
 #### Course Certificates Completed list
 
-Introduction to CSS3, Advanced Styling with Responsive Design, Interactivity with JavaScript, Introduction to HTML5, Web Design for Everybody Capstone.
+1. Introduction to CSS3
+2. Advanced Styling with Responsive Design
+3. Interactivity with JavaScript
+4. Introduction to HTML5
+5. Web Design for Everybody Capstone.
 
 ---
 
 ### Full-Stack Web Development with React Specialization [view &rarr;](https://coursera.org/share/c9c2c464b67a0e52960937f9d2f4df16)
 #### Course Certificates Completed list
 
-Front-End Web UI Frameworks and Tools: Bootstrap 4, Front-End Web Development with React, Server-side Development with NodeJS, Express and MongoDB.
+1. Front-End Web UI Frameworks and Tools: Bootstrap 4
+2. Front-End Web Development with React
+3. Server-side Development with NodeJS, Express and MongoDB.
 
 ---
 
 ### Full Stack Web Development with Angular Specialization [view &rarr;](https://coursera.org/share/aac19430a3b33e55397df3096b63bb3f)
 #### Course Certificates Completed list
 
-Server-side Development with NodeJS, Express and MongoDB.
+1. Server-side Development with NodeJS Express and MongoDB.
 
 ---
 
 ### UI / UX Design Specialization [view &rarr;](https://coursera.org/share/bce028ae1491fd4975717c059fa5c15f)
 #### Course Certificates Completed list
 
-Visual Elements of User Interface Design, UX Design Fundamentals, Web Design: Strategy and Information Architecture, Web Design: Wireframes to Prototypes.
+1. Visual Elements of User Interface Design
+2. UX Design Fundamentals
+3. Web Design: Strategy and Information Architecture
+4. Web Design: Wireframes to Prototypes.
 
 ---
 
 ### SAS Visual Business Analytics Specialization [view &rarr;](https://coursera.org/share/896c3292b472c07d542a21b02dbaa0c7)
 #### Course Certificates Completed list
 
-Data Analysis and Reporting in SAS Visual Analytics, Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics, Creating Advanced Reports with SAS Visual Analytics, Getting Started with SAS Visual Analytics, Performing Network, Path, and Text Analyses in SAS Visual Analytics.
+1. Data Analysis and Reporting in SAS Visual Analytics
+2. Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics
+3. Creating Advanced Reports with SAS Visual Analytic
+4. Getting Started with SAS Visual Analytics
+5. Performing Network, Path, and Text Analyses in SAS Visual Analytics.
 
 ---
 
 ### Unity Certified 3D Artist Specialization [view &rarr;](https://coursera.org/share/6d25117736eeb6031c574b742f902dad)
 #### Course Certificates Completed list
 
-Lighting, Reflection, and Post Processing Effects, Asset Creation and Management, Integrating Scripts for Scene Interactions, Character Setup and Animation, Creating Cutscenes in Unity.
+1. Lighting, Reflection, and Post Processing Effects
+2. Asset Creation and Management
+3. Integrating Scripts for Scene Interactions
+4. Character Setup and Animation
+5. Creating Cutscenes in Unity.
 
 ---
 
 ### Self-Driving Cars Specialization [view &rarr;](https://coursera.org/share/4897c4a8016deb729637c19860170f68)
 #### Course Certificates Completed list
 
-Introduction to Self-Driving Cars, State Estimation and Localization for Self-Driving Cars, Visual Perception for Self-Driving Cars, Motion Planning for Self-Driving Cars.
+1. Introduction to Self-Driving Cars
+2. State Estimation and Localization for Self-Driving Cars
+3. Visual Perception for Self-Driving Cars
+4. Motion Planning for Self-Driving Cars.
 
 ---
 
